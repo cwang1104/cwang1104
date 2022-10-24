@@ -1,4 +1,13 @@
 ### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Wang Li</h1>
+ <p align="center"><br/>
+<h3 align="center">A junior Golang developer from Chengdu</h3>
+
+  
+<br/>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=cwang1104&theme=github" />
+</div>
 
 <!--
 **cwang1104/cwang1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
